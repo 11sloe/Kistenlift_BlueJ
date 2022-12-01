@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Listenelement
+comment1.params=
+comment1.target=void\ ausgeben()
+comment2.params=
+comment2.target=boolean\ istLeer()
+comment3.params=
+comment3.target=Kiste\ getInhalt()
+comment4.params=
+comment4.target=Listenelement\ getNaechster()
+numComments=5

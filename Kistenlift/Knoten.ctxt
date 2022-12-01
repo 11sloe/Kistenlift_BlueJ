@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=inhalt_
+comment1.target=Knoten(Kiste)
+comment2.params=
+comment2.target=void\ ausgeben()
+comment3.params=
+comment3.target=boolean\ istLeer()
+comment4.params=
+comment4.target=Kiste\ getInhalt()
+numComments=5

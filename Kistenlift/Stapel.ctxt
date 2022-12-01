@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Stapel
+comment1.params=
+comment1.target=Stapel()
+comment2.params=k
+comment2.target=void\ einfuegen(Kiste)
+comment3.params=
+comment3.target=void\ stapelDatenAusgeben()
+comment4.params=
+comment4.target=boolean\ istLeer()
+comment5.params=
+comment5.target=Kiste\ entnehmen()
+numComments=6

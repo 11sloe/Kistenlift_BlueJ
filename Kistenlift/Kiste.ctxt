@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Kiste
+comment1.params=masse_
+comment1.target=Kiste(int)
+comment2.params=
+comment2.target=int\ getMasse()
+comment3.params=
+comment3.target=void\ infosAusgeben()
+numComments=4

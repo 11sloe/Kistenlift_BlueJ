@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Aufzug
+comment1.params=
+comment1.target=Aufzug()
+comment2.params=
+comment2.target=void\ fahren()
+comment3.params=masse
+comment3.target=void\ hinzufuegen(int)
+comment4.params=
+comment4.target=int\ getAktLast()
+numComments=5
